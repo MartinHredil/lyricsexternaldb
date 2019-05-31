@@ -1,4 +1,4 @@
-package com.example.external;
+package ayds.aj3.lyrics;
 
 import org.junit.Test;
 
